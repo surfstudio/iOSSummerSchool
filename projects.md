@@ -12,7 +12,7 @@
 |8|@NikitaStudent|0. Клиент Unsplash||
 |9|@MajorPayne36|0. Клиент Unsplash||
 |10|@Destin-zzz|0. Клиент Unsplash||
-|11|@evxn|0. Клиент Unsplash||
+|11|@evxn|0. Клиент Unsplash + 17	Интернет радио| https://github.com/evxn/ios-summer-school-image-gallery |
 |12|@NikBuzin|0. Клиент Unsplash||
 |13|@Olejkeee|0. Клиент Unsplash||
 |14|@DeSC0M|0. Клиент Unsplash||
