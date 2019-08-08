@@ -2,7 +2,7 @@
 
 |#|Студент|Тема проекта|Репозиторий|
 |---|---|---|---|
-|1|@cheprakovA|12. Отображение изображений по настроению||
+|1|@cheprakovA|12. Отображение изображений по настроению|https://github.com/cheprakovA/MoodPics|
 |2|@erorrov|8. Файловый менеджер VK||
 |3|@tranina-olesya|15. Мой сад| https://github.com/tranina-olesya/MyGarden |
 |4|@CocoRyse|2. Рецепты коктейлей||
