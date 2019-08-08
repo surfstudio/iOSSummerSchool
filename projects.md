@@ -8,7 +8,7 @@
 |4|@CocoRyse|2. Рецепты коктейлей|https://github.com/CocoRyse/iOSSummerSchool|
 |5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)||
 |6|@VictoriiaNestrugina|1. Приложение для учета выпитой воды (#2)|https://github.com/VictoriiaNestrugina/iOSSummerSchoolProject|
-|7|@zatonskayay|14. RestRoulette||
+|7|@zatonskayay|14. RestRoulette|https://github.com/zatonskayay/IOSSummerExampleProject|
 |8|@NikitaStudent|0. Клиент Unsplash||
 |9|@MajorPayne36|0. Клиент Unsplash||
 |10|@Destin-zzz|0. Клиент Unsplash||
