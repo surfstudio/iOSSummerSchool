@@ -17,7 +17,7 @@
 |13|@Olejkeee|0. Клиент Unsplash||
 |14|@DeSC0M|0. Клиент Unsplash||
 |15|@Chismur|0. Клиент Unsplash||
-
+|17|@Destin-zzz|0. Клиент Unsplash|https://github.com/Destin-zzz/IOSSummerSchool|
 ## Как добавить ссылку на репозторий или поменять тему?
 
 Смотрим статью от GitHub [Editing files in your repository](https://help.github.com/en/articles/editing-files-in-your-repository)
