@@ -11,13 +11,14 @@
 |7|@zatonskayay|14. RestRoulette|https://github.com/zatonskayay/IOSSummerExampleProject|
 |8|@NikitaStudent|0. Клиент Unsplash||
 |9|@MajorPayne36|0. Клиент Unsplash||
-|10|@Destin-zzz|0. Клиент Unsplash||
+|10|@Destin-zzz|0. Клиент Unsplash|https://github.com/Destin-zzz/IOSSummerSchool|
 |11|@evxn|0. Клиент Unsplash + 17	Интернет радио| https://github.com/evxn/ios-summer-school-image-gallery |
 |12|@NikBuzin|0. Клиент Unsplash| https://github.com/NikBuzin/iOSSummerProject|
 |13|@Olejkeee|0. Клиент Unsplash||
 |14|@DeSC0M|0. Клиент Unsplash| https://github.com/DeSC0M/IOSSummerSchoolProject |
 |15|@Chismur|0. Клиент Unsplash||
-|17|@Destin-zzz|0. Клиент Unsplash|https://github.com/Destin-zzz/IOSSummerSchool|
+|16|@fixique|0. Клиент Unsplash|https://github.com/surfstudio/iOSSummerSchoolProject|
+
 ## Как добавить ссылку на репозторий или поменять тему?
 
 Смотрим статью от GitHub [Editing files in your repository](https://help.github.com/en/articles/editing-files-in-your-repository)
