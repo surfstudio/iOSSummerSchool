@@ -17,6 +17,7 @@
 |13|@Olejkeee|0. Клиент Unsplash||
 |14|@DeSC0M|0. Клиент Unsplash||
 |15|@Chismur|0. Клиент Unsplash||
+|16|@fixique|0. Клиент Unsplash|https://github.com/surfstudio/iOSSummerSchoolProject|
 
 ## Как добавить ссылку на репозторий или поменять тему?
 
