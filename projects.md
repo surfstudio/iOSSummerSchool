@@ -4,7 +4,7 @@
 |---|---|---|---|
 |1|@cheprakovA|12. Отображение изображений по настроению||
 |2|@erorrov|8. Файловый менеджер VK||
-|3|@tranina-olesya|15. Мой сад||
+|3|@tranina-olesya|15. Мой сад| https://github.com/tranina-olesya/MyGarden |
 |4|@CocoRyse|2. Рецепты коктейлей||
 |5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)||
 |6|@VictoriiaNestrugina|1. Приложение для учета выпитой воды (#2)||
