@@ -9,7 +9,7 @@
 |5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)| https://github.com/DeSC0M/ComicBook |
 |6|@VictoriiaNestrugina|1. Приложение для учета выпитой воды (#2)|https://github.com/VictoriiaNestrugina/iOSSummerSchoolProject|
 |7|@zatonskayay|14. RestRoulette|https://github.com/zatonskayay/IOSSummerExampleProject|
-|8|@NikitaStudent|0. Клиент Unsplash||
+|8|@NikitaStudent|0. Клиент Unsplash|https://github.com/NikitaStudent/IOSSummerSurf|
 |9|@MajorPayne36|0. Клиент Unsplash||
 |10|@Destin-zzz|0. Клиент Unsplash|https://github.com/Destin-zzz/IOSSummerSchool|
 |11|@evxn|17.	Интернет радио| https://github.com/evxn/ios-summer-school-radio |
