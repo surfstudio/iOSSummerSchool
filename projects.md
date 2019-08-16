@@ -6,7 +6,7 @@
 |2|@erorrov|8. Файловый менеджер VK| https://github.com/erorrov/VKDocuments |
 |3|@tranina-olesya|15. Мой сад| https://github.com/tranina-olesya/MyGarden |
 |4|@CocoRyse|2. Рецепты коктейлей|https://github.com/CocoRyse/iOSSummerSchool|
-|5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)| https://github.com/DeSC0M/ComicBook |
+|5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)| https://github.com/DeSC0M/SummerSchoolComics |
 |6|@VictoriiaNestrugina|1. Приложение для учета выпитой воды (#2)|https://github.com/VictoriiaNestrugina/iOSSummerSchoolProject|
 |7|@zatonskayay|14. RestRoulette|https://github.com/zatonskayay/IOSSummerExampleProject|
 |8|@NikitaStudent|0. Клиент Unsplash|https://github.com/NikitaStudent/IOSSummerSurf|
